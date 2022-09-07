@@ -11,5 +11,3 @@ Hi! I'm Andrea ☀<br><br>🔭 I’m currently working on getting my computer sc
 
 ---
 [![](https://visitcount.itsvg.in/api?id=andreavvel&icon=0&color=12)](https://visitcount.itsvg.in)
-
-(https://github.com/andreavvel/andreavvel/blob/output/github-contribution-grid-snake.svg)
