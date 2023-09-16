@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Andrea ☀<br><br>🔭 I’m currently working on getting my computer science degree<br>🌱 I’m currently learning javascript, css and html<br>⚡ Reach me: andreagvj@gmail.com
+Hi! I'm Andrea ☀<br><br>🔭 I’m currently working on getting my computer science degree<br>🌱 I’m currently learning react<br>⚡ Reach me: andreagvj@gmail.com
 
 
 # 💻 Tech Stack:
