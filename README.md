@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **getting my computer science degree**
 
-- 🌱 I’m currently learning **docker, keras, neural networks**
+- 🌱 I’m currently learning **unsupervised learning, keras, neural networks**
 
-- 👯 I’m looking to collaborate on **frontend projects**
+- 👯 I’m looking to collaborate on **data science projects**
 
-- 💬 Ask me about **javascript, css, html and python**
+- 💬 Ask me about **python and frontend development**
 
 - 📫 How to reach me **andreagvj@gmail.com**
 
