@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **getting my computer science degree**
 
-- 🌱 I’m currently learning **unsupervised learning, keras, neural networks**
+- 🌱 I’m currently learning **dataproc, CI/CD pipelines, and data enginnering in general, also very interested in unsupervised learning**
 
-- 👯 I’m looking to collaborate on **data science projects**
+- 👯 I’m looking to collaborate on **data egineering/science projects**
 
-- 💬 Ask me about **python and frontend development**
+- 💬 Ask me about **python and google cloud**
 
 - 📫 How to reach me **andreagvj@gmail.com**
 
