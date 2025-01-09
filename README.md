@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Andrea ☀</h2>
+<h2 align="center">Hi, I'm Andrea ☀</h2>
 <h3 align="center">Passionate about data and deriving valuable insights</h3>
 
 - 🔭 I’m currently working on **getting my computer science degree**
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **data egineering/science projects**
 
-- 💬 Ask me about **python and google cloud**
+- 💬 Ask me about **python and google cloud platform**
 
 - 📫 How to reach me **andreagvj@gmail.com**
 
